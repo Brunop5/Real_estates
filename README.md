@@ -12,5 +12,6 @@ I wanted to use the scraped data for business purposes.
 - I used python with just two libraries - pandas and selenium
 
 ## Disclaimer
-- this script was created in 2023 just for a fun and short idea, since then I havent touched the idea or the script.
-- the likelyhood of such webscraping script working after two years of no maintenance are incredibly low, but whoever wants to try it, it should work with some minor updates.
+- This script was created in 2023 as a fun side project and has not been maintained since.
+- Due to website changes over time, the scraper may require updates to work properly now.
+- Feel free to try it out, but expect to do some minor fixes.
