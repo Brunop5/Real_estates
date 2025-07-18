@@ -8,7 +8,7 @@ from multiprocessing import Pool
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-"""def do(page):
+def do(page):
     print(page)
     # It's generally a good idea to configure Selenium to run headless in such scripts
     options = webdriver.ChromeOptions()
@@ -38,7 +38,7 @@ with Pool(processes=8) as pool:  # using None defaults to os.cpu_count()
 
 out = pd.DataFrame({'Price' : prices})
 out.to_csv('Bratislava.csv')
-print("Done")"""
+print("Done")
 
 df = pd.read_csv('Bratislava.csv')
 
