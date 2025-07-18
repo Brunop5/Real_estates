@@ -13,4 +13,4 @@ I wanted to use the scraped data for business purposes.
 
 ## Disclaimer
 - this script was created in 2023 just for a fun and short idea, since then I havent touched the idea or the script.
-- the likelyhood of such webscraping script working after two years of no maintaining are incredibly low, but whoever wants to try it, it should work with some minor updates.
+- the likelyhood of such webscraping script working after two years of no maintenance are incredibly low, but whoever wants to try it, it should work with some minor updates.
