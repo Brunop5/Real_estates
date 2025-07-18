@@ -7,7 +7,6 @@ I wanted to use the scraped data for business purposes.
   - nehnutelnosti.py (scrapes data from nehnutelnosti.sk)
   - realitymax.py (realitymax.sk)
   - topreality.py
-  - send_mails.py (sends emails to the scraped email addresses) - this script relies on an outside script not contained in this repo
 ## Tech Stack
 - I used python with just two libraries - pandas and selenium
 
